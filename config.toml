@@ -1,0 +1,19 @@
+baseURL = "https://pages.recursive.me/"
+languageCode = "en-us"
+title = "My projects"
+theme = "slim"
+[params]
+  Subtitle = "These are some of my projects, click on the titles to go to their respective pages."
+  GithubID = "Yvee1"
+  TwitterID = "RecursiveSelf"
+  Website = "https://recursive.me"
+  Summary = false  # takes true or false
+  Content = true  # takes true or false
+  # if both are set to true, summary is shown.
+  Footer = true
+  FooterMsg = "Copyright Steven van den Broek 2020"
+  # mainSections = ["projects", "posts"]
+  mainSections = ["projects"]
+
+[markup.goldmark.renderer]
+  unsafe = true
