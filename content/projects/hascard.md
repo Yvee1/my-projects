@@ -1,7 +1,7 @@
 ---
 title: "Hascard"
 date: 2020-07-24T11:34:28+02:00
-draft: true
+draft: false
 cover: "/images/recording-plain.gif"
 project: "https://github.com/Yvee1/hascard"
 ---

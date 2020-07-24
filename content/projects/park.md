@@ -1,7 +1,7 @@
 ---
 title: "Park"
 date: 2019-07-28
-draft: true
+draft: false
 project: "https://pages.recursive.me/Park/"
 cover: "https://raw.githubusercontent.com/Yvee1/Park/master/imgs/teaser.png"
 ---
